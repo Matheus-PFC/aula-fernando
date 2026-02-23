@@ -1,0 +1,27 @@
+body {
+    background-color: black ;
+    color: antiquewhite;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.exp {
+    text-align: center;
+    color: rgb(128, 4, 4);
+    font-style: italic;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.sitacao {
+    text-align: center;
+    
+}
